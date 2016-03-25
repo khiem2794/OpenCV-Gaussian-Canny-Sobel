@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloOpenCV</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_gallery">Open Gallery</string>
+    <string name="DoG">Different of Gaussian</string>
+    <string name="CannyEdge">Canny Edge</string>
+    <string name="Sobel">Sobel</string>
+</resources>
